@@ -231,20 +231,20 @@ enableGitInfo = false
    # icon_pack = "fa"
    # link = "mailto:test@example.org"
 
-  [[params.social]]
-    icon = "linkedin.com"
-    icon_pack = "fa"
-    link = "//linkedin.com/"
+  #[[params.social]]
+  #  icon = "linkedin"
+  #  icon_pack = "fa"
+  #  link = "//linkedin.com/"
 
   #[[params.social]]
   #  icon = "google-scholar"
   #  icon_pack = "ai”
   #  link = "https://scholar.google.co.uk/"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa" 
-    link = "//github.com/amonelders"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fa" 
+  #  link = "//github.com/amonelders"
 
    #Link to a PDF of your resume/CV from the About widget.
    #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
